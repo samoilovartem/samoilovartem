@@ -1,7 +1,7 @@
 <p align="center">
 <img width="256" src="https://work.rabotalab.com/assets/front/img/pages/home-black/sofa@2x.png"/>
 
-<h1 align="center">Hi there 👋 I’m Artem </h1>
+<h1 align="center">Hi there, I’m Artem 👋 </h1>
 
 <h3 align="center">Motivated and constantly growing Python developer with passion to write stable and elegant code.</h3>
 
