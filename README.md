@@ -16,10 +16,3 @@
 
 Skills: Django, Fast API, Telegram API, Mongo DB and SQLAlchemy. Familiar with Flask, PostgreSQL. Basic CSS, HTML, JavaScript and React.js
 
- <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoilovartem&layout=compact&theme=dark" />  
-   <br>
-   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samoilovartem&show_icons=true&theme=dark" />
-   <br>
-  </p>
