@@ -5,8 +5,7 @@
 
 <h3 align="center">Motivated and constantly growing Python developer with passion to write stable and elegant code.</h3>
 
-<h3 align="center">Currently learning JavaScript and React.js.</h3>
-
+<h3 align="center">Currently working in Lew & Dowski Capital, LLC as a backend developer</h3>
 
 
 <p align="center">
@@ -14,5 +13,5 @@
  <a href="https://t.me/samoylovartem"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
  
 
-Skills: Django, Fast API, Telegram API, Mongo DB and SQLAlchemy. Familiar with Flask, PostgreSQL. Basic CSS, HTML, JavaScript and React.js
+Skills: Django, Fast API, DRF, Telegram API, Google Apps Script, PostgreSQL, Mongo DB, SQLAlchemy, Docker. Familiar with Flask. Basic JavaScript, CSS and HTML.
 
