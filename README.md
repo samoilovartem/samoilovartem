@@ -3,15 +3,15 @@
 
 <h1 align="center">Hi there, I’m Artem 👋 </h1>
 
-<h4>Enthusiastic and dedicated Python backend developer with a strong commitment to writing stable, elegant code that drives performance and efficiency. Eager to further enhance my backend development expertise in a dynamic and innovative setting that employs cutting-edge technologies.</h4>
-<br>
+<h3>Enthusiastic and dedicated Python backend developer with a strong commitment to writing stable, elegant code that drives performance and efficiency. Eager to further enhance my backend development expertise in a dynamic and innovative setting that employs cutting-edge technologies.</h3>
+
 <p>Core Competencies:
 
 - Proficient in Django, FastAPI, DRF, Telegram API, PostgreSQL, MongoDB, SQLAlchemy, Docker.
 - Familiarity with Flask.
 - Fundamental knowledge of JavaScript, CSS, and HTML to ensure seamless collaboration with front-end teams.</p>
 
-<h4>I am driven by a passion for continuous learning and a desire to contribute to the success of the organizations I work with.</h4>
+<h3>I am driven by a passion for continuous learning and a desire to contribute to the success of the organizations I work with.</h3>
 <br>
 
 <p align="center">
