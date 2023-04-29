@@ -5,7 +5,7 @@
 
 <h3 align="center">Enthusiastic and dedicated Python backend developer with a strong commitment to writing stable, elegant code that drives performance and efficiency. Eager to further enhance my backend development expertise in a dynamic and innovative setting that employs cutting-edge technologies.</h3>
 
-<p>Core Competencies:
+<p align="center">Core Competencies:
 
 - Proficient in Django, FastAPI, DRF, Telegram API, PostgreSQL, MongoDB, SQLAlchemy, Docker.
 - Familiarity with Flask.
