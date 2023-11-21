@@ -1,20 +1,28 @@
 <p align="center">
 <img width="256" src="https://work.rabotalab.com/assets/front/img/pages/home-black/sofa@2x.png" alt=""/>
 
-<h1 align="center">Hi there, I’m Artem 👋 </h1>
+<h1 align="center"> 🚀 Hi there, </h1>
 
-As a Python backend developer, I bring a strong commitment to crafting efficient, high-performance code. I am always eager to further enhance my backend development skills in a dynamic and innovative environment that utilizes cutting-edge technology. Beyond my technical skills, I also bring a proven track record in conceptualizing and developing projects from ground zero, designing each detail with a results-oriented mindset.
+I'm a seasoned Python Team Lead with a passion for creating cutting-edge web applications and improving software development processes. With my deep expertise in Django, DRF, FastAPI, Postgres and other technologies, I specialize in designing and developing robust, scalable web solutions from the ground up. My journey has been marked by a commitment to technical excellence and team development.
 
-**Core Competencies:**
+**What I Bring to the Table:**
 
-- Proficiency in Django, FastAPI, DRF, Flask, PostgreSQL, MongoDB, SQLAlchemy, Docker, CI/CD (Heroku, Google Cloud)
-- Solid grasp of JavaScript, CSS, and HTML, ensuring fluid collaboration with front-end teams.
+- Innovative Development: Spearheading the creation of high-performance web applications, I thrive on transforming complex technical challenges into seamless, efficient solutions.
+- Streamlined Processes: I'm a firm believer in efficiency. Implementing CI/CD processes has been a cornerstone of my approach, enhancing software delivery and team productivity.
+- Team Growth & Mentorship: Nurturing talent is my forte. By mentoring new hires, conducting detailed code reviews, and sharing best practices, I ensure both smooth onboarding and continuous professional growth.
+- Leadership & Management: Guiding a team of four through the entire project lifecycle, I have honed my skills in project management, from concept to product launch, ensuring that we not only meet but exceed our goals.
 
-In my current role at Lew & Dowski, I effectively manage a team of 4, fostering an environment of collaboration and consistent high-quality output. My professional journey is fueled by a passion for learning and a dedication to the success of the organisations I work with.
+**Key Achievements:**
 
-Please feel free to reach me out to discuss my qualifications and how I can contribute your team/business.
+- Successfully launched multiple high-performance web applications, showcasing my technical versatility.
+- Spearheaded the development and launch of a consignment portal for reselling season tickets, starting from the ground up.
+- Created a comprehensive backend for an internal CRM platform, streamlining business operations and customer relationship management.
+- Developed and implemented CI/CD processes, elevating our software delivery standards.
+- Championed a mentorship program, fostering a culture of continuous learning and team empowerment.
+
+I'm always excited to connect with fellow professionals, share insights, and explore new opportunities. Let's harness the power of technology to create solutions that make a difference!
 
 <p align="center">
- <a href="https://www.linkedin.com/in/samoilovartem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)"/></a>
- <a href="https://t.me/samoylovartem"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/samoilovartem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)" alt=""/></a>
+ <a href="https://t.me/samoylovartem"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white"  alt=""/></a>
  
