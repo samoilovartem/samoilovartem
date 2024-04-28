@@ -3,7 +3,7 @@
 
 <h1 align="center"> 🚀 Hi there, </h1>
 
-I'm a seasoned Python Team Lead with a passion for creating cutting-edge web applications and improving software development processes. With my deep expertise in Django, DRF, FastAPI, Postgres and other technologies, I specialize in designing and developing robust, scalable web solutions from the ground up. My journey has been marked by a commitment to technical excellence and team development.
+I'm a Senior Python Developer with a passion for creating cutting-edge web applications and improving software development processes. With my deep expertise in Django, DRF, FastAPI, Postgres and other technologies, I specialize in designing and developing robust, scalable web solutions from the ground up. My journey has been marked by a commitment to technical excellence and team development.
 
 **What I Bring to the Table:**
 
