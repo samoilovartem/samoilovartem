@@ -5,7 +5,7 @@
 
 I'm a passionate and results-driven Python developer with a proven track record of delivering high-quality, scalable solutions across diverse industries. With a strong foundation in web application development, CI/CD processes, and team leadership, I thrive on transforming complex business requirements into innovative technical solutions.
 
-Currently, I'm spearheading service development and architectural strategies at InteleTravel.com, where I've enhanced deployment efficiency and software quality through robust CI/CD frameworks. My journey has also seen me lead a dynamic team at Lew & Dowski Capital, LLC, where I played a pivotal role in launching a consignment portal for reselling season tickets.
+Currently, I'm spearheading service development and architectural strategies at InteleTravel.com, while also contributing as a contractor at LinearBee, where I focus on optimizing software development processes and enhancing product scalability. At InteleTravel.com, I've significantly enhanced deployment efficiency and software quality through robust CI/CD frameworks. My tenure at Lew & Dowski Capital, LLC, saw me leading a dynamic team and playing a pivotal role in launching a consignment portal for reselling season tickets.
 
 With expertise in Django, FastAPI, AWS, and more, I excel in both backend development and cross-functional collaboration. I'm dedicated to continuous learning and professional growth, currently pursuing a Master's degree in IT to further refine my skill set and stay ahead of industry trends.
 
