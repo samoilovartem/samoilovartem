@@ -17,7 +17,7 @@
 
 An AI-powered omnichannel publishing platform — upload once, publish natively to YouTube, X, Telegram, TikTok, Instagram, Facebook, and Threads. **Native Mode** AI tailors each post for each platform's audience, length, and tone.
 
-**Stack:** Python (Litestar, SAQ, aiogram) · Rust (Axum) · Next.js 15 · PostgreSQL 16 · Redis · Docker · Railway
+**Stack:** Python (Litestar, SAQ, aiogram) · Rust (Axum) · Next.js 16 · PostgreSQL 17 · Redis · Docker
 
 ---
 
