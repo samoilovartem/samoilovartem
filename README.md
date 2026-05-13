@@ -43,6 +43,5 @@ Right now I'm **open to Senior IC roles** in distributed systems, backend, or AI
 
 **AI:** LLM integration (OpenAI, OpenRouter) · RAG · Prompt engineering · AI agents
 
----
 
 
